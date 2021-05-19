@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^9.0.2",
     "ethereumjs-tx": "^2.1.2",
+    "fetch": "^1.1.0",
     "web3": "^1.3.6"
   }
 }
